@@ -13,6 +13,7 @@ BATCH DURATION: January 30th, 2025 to March 2nd, 2025
 MENTOR NAME: Neela Santhosh Kumar
 
 OUTPUT: 
+![Image](https://github.com/user-attachments/assets/53757451-74e1-4fba-947a-b9f695af5cb3)
 
 File Integrity Checker (Python Script) This Python script ensures file integrity by generating and verifying cryptographic hashes. It calculates the hash of a file using a specified algorithm (default: SHA-256) and detects if the file has been modified.
 
